@@ -1,7 +1,6 @@
 <html>
 <head>
 <link rel="stylesheet" href="../style.css" type="text/css">
-<title>Transputer</title>
 </head>
 <body>
 <h1>Transputer</h1>
