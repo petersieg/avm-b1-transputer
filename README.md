@@ -8,7 +8,7 @@ Links:<br>
 http://www.transputer.net/<br>
 https://sites.google.com/site/transputeremulator/<br>
 http://www.wehavemorefun.de/fritzbox/ISDN-Controller_B1_PCI<br>
-http://jonathanschilling.de/content/elektrotechnik/computerbasteln/transputer/avm_b1<br>
+http://labathome.de/content/elektrotechnik/computerbasteln/transputer/avm_b1<br>
 http://www.classiccmp.org/transputer/software/languages/occam/compilers/inmos/commercial/<br>
 http://www.geekdot.com/avm-b1.html<br>http://www.classiccmp.org/transputer/<br>
 <br>
