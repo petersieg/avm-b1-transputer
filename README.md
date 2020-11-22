@@ -46,7 +46,7 @@ So einfach hat man ein funktionierendes Transputersystem! Das Mandelbrot Program
 <br>
 <a href="./Transp.zip">Transp.zip</a><br>
 <br>
-Übersetzte (Occam) Programme werden mit iserver.exe ausgeführt. Eine Batchdatei iserv.bat setzt dazu notwendige Umgebungsvariablen!
+Übersetzte (Occam) Programme (*.btl) werden mit iserver.exe ausgeführt. Eine Batchdatei iserv.bat setzt dazu notwendige Umgebungsvariablen!
 <br>
 set IBOARDSIZE=#100000<br>
 set TRANSPUTER=#150<br>
