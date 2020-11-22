@@ -46,6 +46,12 @@ So einfach hat man ein funktionierendes Transputersystem! Das Mandelbrot Program
 <br>
 <a href="./Transp.zip">Transp.zip</a><br>
 <br>
+Übersetzte (Occam) Programme werden mit iserver.exe ausgeführt. Eine Batchdatei iserv.bat setzt dazu notwendige Umgebungsvariablen!
+<br>
+set IBOARDSIZE=#100000<br>
+set TRANSPUTER=#150<br>
+iserver.exe /SB %1 %2 %3 <br> 
+<br>  
 Man kann sogar 2 AVM B1 Karten in einem PC als kleines Transputer-Cluster betreiben. Eine Karte wird auf 0x150 gejumpert, die andere z.B. auf 0x160 
 (damit wird sie ersteinmal nicht erkannt von der PC Software). Beide Karten werden nun über 3 kurze Verbindungen miteinander verbunden:<br>
 (Dabei wird vorher der Reset-Pin auf Pin 2 der 10-poligen Leiste verdrahtet, wie auf J.Schillings Seite beschrieben)<br>
